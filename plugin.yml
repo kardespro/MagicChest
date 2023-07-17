@@ -1,0 +1,10 @@
+name: MagicChest
+version: 1.0.0
+api: [3.0.0, 3.99.0]
+main: MC\Main
+author: Nego
+description: Open Magic Chest
+commands:
+  mc:
+    description: Open Magic Chest
+    usage: /mc
